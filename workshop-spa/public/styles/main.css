@@ -1,0 +1,21 @@
+#container img {
+    width: 200px;
+    display: block;
+}
+
+.cookie-element {
+    margin-top: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 5px;
+}
+
+.btn-like-dislike {
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    background-color: lightgrey;
+    color: black;
+}
